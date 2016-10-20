@@ -1,0 +1,7 @@
+.jumbotron {
+  text-align: center;
+}
+
+#response1, #response2, #response3 {
+  display: none;
+}
